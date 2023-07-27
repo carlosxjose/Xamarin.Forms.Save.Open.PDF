@@ -1,4 +1,4 @@
-# Xamarin.Forms.Save.Open.PDF
+# Maui.Save.Open.PDF
 
 NuGet Package: https://www.nuget.org/packages/Xamarin.Forms.SaveOpenPDFPackage/
 
